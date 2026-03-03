@@ -145,11 +145,11 @@ contact:
 
 <div align="center">
 
-![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=PraveenChordia&cc=0d1117&tc=00ff41&ic=00ff41&bc=0d1117)
+![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=PraveenChordia&cc=00000000&tc=58a6ff&ic=58a6ff&bc=00000000)
 
-![Streak](https://nirzak-streak-stats.vercel.app/?user=PraveenChordia&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff41&fire=ff6b35&currStreakLabel=00ff41)
+![Streak](https://nirzak-streak-stats.vercel.app/?user=PraveenChordia&theme=transparent&hide_border=true)
 
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PraveenChordia&theme=github_dark)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PraveenChordia&theme=transparent)
 
 </div>
 
@@ -159,10 +159,10 @@ contact:
 
 <div align="center">
 
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PraveenChordia&theme=github_dark)
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PraveenChordia&theme=transparent)
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PraveenChordia&theme=github_dark)
-![Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PraveenChordia&theme=github_dark&utcOffset=5.5)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PraveenChordia&theme=transparent)
+![Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PraveenChordia&theme=transparent&utcOffset=5.5)
 
 </div>
 
@@ -190,4 +190,4 @@ contact:
 
 *"Talk is cheap. Show me the logs."*
 
-</div> 
+</div>
