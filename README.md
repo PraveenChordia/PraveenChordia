@@ -1,76 +1,24 @@
-- 👋 Hi, I’m @PraveenChordia
-- 👀 I’m interested in Python, Machine Learning
-- 🌱 I’m currently learning Machine Learing
-- 💞️ I’m looking to collaborate on Machine Learing, AI
-- 📫 How to reach me praveenchordia111.pc@gmail.com
+# 💫 About Me:
+I am currently working on asteirk server to develop voip applications.<br>I have worked on DDMS system consisitng of 150+ forms for the client.<br>I have created a realtime voice bot over phone calls using asterisk servers and gcp ai models.<br>I have knowledge of python, django, fastapi, flask. kafka, rabbitmq, redis, docker, containers, docker compose.<br>
 
-<!---
-PraveenChordia/PraveenChordia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
-<!---
-# Welcome to Praveen Kumar Chordia's GitHub Profile 🚀
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/praveen-chordia-0b289b16a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:praveenchordia111.pc@gmail.com) 
 
-![Header Image](https://www.example.com/image.jpg)
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=flat&logo=apachekafka) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=flat&logo=jinja&logoColor=black) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=flat&logo=rabbitmq&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=flat&logo=gunicorn&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=flat&logo=selenium&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=flat&labelColor=171717&logoColor=5cb85c) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=flat&logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=Prometheus&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=PraveenChordia&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=PraveenChordia&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PraveenChordia&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-```javascript
-const praveenChordia = {
-    pronouns: "He" | "Him",
-    code: ["Python", "JavaScript", "TypeScript"],
-    askMeAbout: ["VoIP", "Python Development", "Docker", "REST APIs"],
-    technologies: {
-        backend: {
-            languages: ["Python", "JavaScript", "TypeScript"],
-            frameworks: ["Django", "Flask", "FastAPI"]
-        },
-        devOps: ["Docker🐳"],
-        databases: ["PostgreSQL", "MySQL", "MongoDB"],
-        misc: ["Redis", "Elasticsearch"]
-    },
-    architecture: ["Microservices", "Serverless"],
-    currentFocus: "Building scalable VoIP solutions and optimizing backend performance",
-    funFact: "Coding is not just my profession, it's my passion!"
-};
-```
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=PraveenChordia&theme=default&no-frame=false&no-bg=false&margin-w=4)
 
-## Overview
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
-Praveen Kumar Chordia is a dedicated GitHub user involved in diverse projects encompassing VoIP libraries, Python development, Docker containers, and RESTful APIs. With a keen interest in backend development and proficiency in Python and JavaScript, he continuously contributes his expertise to both personal and open-source initiatives, aiming to make a significant impact on the developer community.
+---
+[![](https://visitcount.itsvg.in/api?id=PraveenChordia&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### Coding Habits
-
-Praveen's coding habits showcase a meticulous approach, focusing on quality rather than quantity. He predominantly utilizes Python, JavaScript, and TypeScript, developing robust backend solutions and actively engaging in JavaScript-related projects. This emphasis on meaningful contributions is evident in his selective commits and thoughtful project decisions.
-
-### Project Contributions
-
-Apart from his personal repositories, Praveen has contributed to high-profile projects like "BERT" and "rrule," demonstrating his commitment to collaborative open-source initiatives. His expertise shines through in his most-starred repository, "JsSIP," which highlights his proficiency in building JavaScript SIP libraries and contributing impactful solutions to the developer community.
-
-### GitHub Presence
-
-Despite a modest number of followers, Praveen's extensive project involvement and recent contributions, such as the pull request "Update manager.py - Add timeout parameter to connect function," illustrate his consistent dedication to enhancing existing projects and fostering collaboration. Praveen remains a valuable asset in the GitHub ecosystem due to his passion for software development and commitment to knowledge sharing.
-
-## Connect with Praveen
-
-- GitHub: [PraveenChordia](https://github.com/PraveenChordia)
-- LinkedIn: [Praveen Kumar Chordia](https://www.linkedin.com/in/praveenkumarchordia/)
-- Email: [praveen@email.com](mailto:praveen@email.com)
-
-## GitHub Stats
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=PraveenChordia)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PraveenChordia)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=PraveenChordia)](https://git.io/streak-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=PraveenChordia)](https://github.com/PraveenChordia)
-
-## Projects Highlights
-
-- [**JsSIP**](https://github.com/PraveenChordia/JsSIP) - A prominent repository showcasing expertise in JavaScript SIP libraries.
-- [**pyVoIP**](https://github.com/PraveenChordia/pyVoIP) - Demonstrates dedication to building VoIP solutions using Python.
-
-## Additional Information
-
-Praveen Kumar Chordia is a full-stack developer proficient in Python frameworks such as Django, Flask, and FastAPI. With extensive knowledge of JavaScript and Bootstrap for frontend development, he also specializes in VoIP technologies, utilizing Asterisk server for real-time voice AI bot deployments. His experience as a Network Engineer on AWS and GCP adds further depth to his skills, making him a versatile developer in the tech industry.
-
-Feel free to explore Praveen's repositories and connect with him to discuss collaboration opportunities and shared interests in software development! 🌟
----!>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
