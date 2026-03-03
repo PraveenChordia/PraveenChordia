@@ -124,7 +124,7 @@ contact:
 └──────────────────────────────────────────────────────────────────┘
 
 ┌──────────────────────────────────────────────────────────────────┐
-│  📋  DDMS — Dynamic Document Management System                   │
+│  📋  DDMS — Digital Document Management System                   │
 │  ─────────────────────────────────────────────────────────────── │
 │  Stack : Django + PostgreSQL + Redis + Docker                    │
 │  Scale : 150+ dynamic forms, multi-user, enterprise-grade        │
