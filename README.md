@@ -145,7 +145,7 @@ contact:
 
 <div align="center">
 
-![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=PraveenChordia)
+![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=PraveenChordia&hide_border=true)
 
 ![Streak](https://nirzak-streak-stats.vercel.app/?user=PraveenChordia&theme=default&hide_border=true&background=default&ring=default&fire=default&currStreakLabel=default)
 
