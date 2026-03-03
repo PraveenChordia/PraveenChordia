@@ -9,9 +9,9 @@
 ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝  ╚══════╝╚══════╝╚═╝  ╚═══╝
 ```
 
-### `> Building real-time voice infra & scalable backends`
+### `> Building real-time voice infra, scalable backends & secure networks`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=600&lines=VoIP+Engineer+%7C+Backend+Developer;Asterisk+%2B+GCP+AI+%3D+Voice+Bots+%F0%9F%A4%96;Python+%7C+Django+%7C+FastAPI+%7C+Kafka;Building+systems+that+talk+back...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=600&lines=VoIP+Engineer+%7C+Backend+Developer;Network+Engineer+%7C+IPSec+%7C+Gateway+Admin;Asterisk+%2B+GCP+AI+%3D+Voice+Bots+%F0%9F%A4%96;Python+%7C+Django+%7C+FastAPI+%7C+Kafka;Securing+tunnels+%26+building+systems+that+talk+back...)](https://git.io/typing-svg)
 
 </div>
 
@@ -21,15 +21,17 @@
 
 ```yaml
 name: Praveen Chordia
-role: Backend Engineer & VoIP Developer
+role: Backend Engineer & VoIP Developer & Network Engineer
 currently_building:
   - Asterisk-based VoIP applications
   - Real-time AI voice bots over phone calls (Asterisk + GCP AI)
   - DDMS system with 150+ dynamic forms
 expertise:
-  - Real-time communication systems
+  - Real-time communication systems (VoIP, SIP, RTP)
   - Distributed backend architecture
   - Message queues & event-driven systems
+  - Network engineering — IPSec tunnels, gateway management
+  - On-premises server administration & maintenance
 contact:
   linkedin: linkedin.com/in/praveen-chordia-0b289b16a
   email: praveenchordia111.pc@gmail.com
@@ -83,6 +85,13 @@ contact:
 ![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
 
+**[ NETWORKING ]**
+
+![IPSec](https://img.shields.io/badge/IPSec_Tunnels-005571?style=for-the-badge&logo=cisco&logoColor=white)
+![VPN](https://img.shields.io/badge/VPN_Gateway-1A1A2E?style=for-the-badge&logo=wireguard&logoColor=white)
+![Linux Server](https://img.shields.io/badge/On--Prem_Servers-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Networking](https://img.shields.io/badge/Network_Admin-00979D?style=for-the-badge&logo=cisco&logoColor=white)
+
 **[ TOOLS ]**
 
 ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c)
@@ -98,6 +107,14 @@ contact:
 ## `$ cat ./projects.log`
 
 ```
+┌──────────────────────────────────────────────────────────────────┐
+│  🔐  NETWORK ENGINEERING & INFRASTRUCTURE                        │
+│  ─────────────────────────────────────────────────────────────── │
+│  Scope : IPSec tunnel setup, configuration & maintenance         │
+│  Infra : Gateway management, on-premises server administration   │
+│  Focus : Secure site-to-site VPN, network reliability & uptime   │
+└──────────────────────────────────────────────────────────────────┘
+
 ┌──────────────────────────────────────────────────────────────────┐
 │  🔊  AI VOICE BOT OVER PHONE CALLS                               │
 │  ─────────────────────────────────────────────────────────────── │
