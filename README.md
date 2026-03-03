@@ -145,21 +145,24 @@ contact:
 
 <div align="center">
 
-![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=PraveenChordia&hide_border=true)
+![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=PraveenChordia&cc=0d1117&tc=00ff41&ic=00ff41&bc=0d1117)
 
-![Streak](https://nirzak-streak-stats.vercel.app/?user=PraveenChordia&theme=default&hide_border=true&background=default&ring=default&fire=default&currStreakLabel=default)
+![Streak](https://nirzak-streak-stats.vercel.app/?user=PraveenChordia&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff41&fire=ff6b35&currStreakLabel=00ff41)
 
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PraveenChordia&theme=default)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PraveenChordia&theme=github_dark)
 
 </div>
 
 ---
 
-## `$ trophy --display`
+## `$ cat ./activity.log`
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=PraveenChordia&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B)
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PraveenChordia&theme=github_dark)
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PraveenChordia&theme=github_dark)
+![Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PraveenChordia&theme=github_dark&utcOffset=5.5)
 
 </div>
 
