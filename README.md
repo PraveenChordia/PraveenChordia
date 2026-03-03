@@ -124,7 +124,7 @@ contact:
 └──────────────────────────────────────────────────────────────────┘
 
 ┌──────────────────────────────────────────────────────────────────┐
-│  📋  DDMS — Digital Document Management System                   │
+│  📋  DDMS — Dynamic Document Management System                   │
 │  ─────────────────────────────────────────────────────────────── │
 │  Stack : Django + PostgreSQL + Redis + Docker                    │
 │  Scale : 150+ dynamic forms, multi-user, enterprise-grade        │
@@ -145,11 +145,11 @@ contact:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PraveenChordia&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff&icon_color=00ff41)
+![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=PraveenChordia&cc=0d1117&tc=00ff41&ic=00ff41&bc=0d1117)
 
 ![Streak](https://nirzak-streak-stats.vercel.app/?user=PraveenChordia&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff41&fire=ff6b35&currStreakLabel=00ff41)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PraveenChordia&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=00ff41&text_color=ffffff)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PraveenChordia&theme=github_dark)
 
 </div>
 
@@ -159,7 +159,7 @@ contact:
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=PraveenChordia&theme=matrix&no-frame=true&no-bg=false&margin-w=6&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=PraveenChordia&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B)
 
 </div>
 
@@ -183,7 +183,7 @@ contact:
 [ systems online ] ● ● ●   latency: <1ms   uptime: 99.9%
 ```
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=PraveenChordia&icon=5&color=6)
+![Profile Views](https://komarev.com/ghpvc/?username=PraveenChordia&style=for-the-badge&color=00ff41&label=PROFILE+VIEWS)
 
 *"Talk is cheap. Show me the logs."*
 
