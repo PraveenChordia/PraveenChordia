@@ -147,9 +147,9 @@ contact:
 
 ![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=PraveenChordia&cc=0d1117&tc=00ff41&ic=00ff41&bc=0d1117)
 
-![Streak](https://nirzak-streak-stats.vercel.app/?user=PraveenChordia&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff41&fire=ff6b35&currStreakLabel=00ff41)
+![Streak](https://nirzak-streak-stats.vercel.app/?user=PraveenChordia&theme=default&hide_border=true&background=0d1117&ring=00ff41&fire=ff6b35&currStreakLabel=00ff41)
 
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PraveenChordia&theme=github_dark)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PraveenChordia&theme=default)
 
 </div>
 
