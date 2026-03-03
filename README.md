@@ -9,6 +9,7 @@ PraveenChordia/PraveenChordia is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
+<!---
 # Welcome to Praveen Kumar Chordia's GitHub Profile 🚀
 
 ![Header Image](https://www.example.com/image.jpg)
@@ -72,3 +73,4 @@ Despite a modest number of followers, Praveen's extensive project involvement an
 Praveen Kumar Chordia is a full-stack developer proficient in Python frameworks such as Django, Flask, and FastAPI. With extensive knowledge of JavaScript and Bootstrap for frontend development, he also specializes in VoIP technologies, utilizing Asterisk server for real-time voice AI bot deployments. His experience as a Network Engineer on AWS and GCP adds further depth to his skills, making him a versatile developer in the tech industry.
 
 Feel free to explore Praveen's repositories and connect with him to discuss collaboration opportunities and shared interests in software development! 🌟
+---!>
